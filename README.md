@@ -1,6 +1,6 @@
 # Learn_to_learn
 
-Первый учебный проект [Yandex.Praktikum](https://praktikum.yandex.ru/).
+Первый учебный проект  в [Yandex.Praktikum](https://praktikum.yandex.ru/).
 В итоге получился небольшой одностраничный сайт о различных подходах к обучению.
 
 **Что же тут использовалось?**
